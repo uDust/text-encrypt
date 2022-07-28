@@ -8,24 +8,7 @@ import time
 #   variables   #
 
 #strings para decorancion
-banner = """        _
-        ..._
-      .'     '.      _
-     /    .-""-\   _/ \\
-   .-|   /:.   |  |   |
-   |  \  |:.   /.-'-./
-   | .-'-;:__.'    =/
-   .=  *=|ASTRO _.='
-  /   _.  |    ;
- ;-.-'|    \   |
-/   | \    _\  _\\
-\__/'._;.  ==' ==\\
-         \    \   |
-         /    /   /
-         /-._/-._/
-          \   `\  \\
-          `-._/._/
-
+banner = """        
     Text Encrypter/Decrypter
     In 
     Base64
